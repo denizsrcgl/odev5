@@ -1,13 +1,3 @@
-# LogFlow - Yazılım Mimarisi Dönem Projesi
-## Artım 5: Hata Yönetimi, Doğrulama ve Dead-Letter Kanalı ★★★
-
-- **Öğrenci Adı Soyadı:** YunusEmre Demirci  
-- **Öğrenci Numarası:** 2404040249  
-- **Ders:** Yazılım Tasarımı ve Mimarisi  
-- **Sürüm Etiketi:** `v5`  
-- **GitHub Deposu:** [DolphinBlacksmith/ym_logflowPipeline](https://github.com/DolphinBlacksmith/ym_logflowPipeline)
-
----
 
 ## 1. Mimari Odak ve Hedefler
 
